@@ -1,0 +1,31 @@
+.container{
+    margin: -8px;
+    height: 100vh;
+    background: #8432df;
+}
+
+.book img {
+    position: relative;
+    width: 30vw;
+    height: 30vh;
+    top: 200px;
+    left: 140px;
+}
+
+.title h1{
+    position: absolute;
+    top: 390px;
+    left: 100px;
+    color: white;
+    font-size: 40px;
+    font-family: 'Montserrat';
+}
+
+.subtitle p{
+    position: absolute;
+    top: 450px;
+    left: 110px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Montserrat';
+}
