@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-most',
@@ -8,5 +9,11 @@ import { Component } from '@angular/core';
   styleUrl: './most.component.css'
 })
 export class MostComponent {
+
+  constructor(private router: Router) {}
+    
+      book1() {
+        this.router.navigate(['/book1']);
+      }
 
 }

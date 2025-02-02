@@ -7,11 +7,12 @@ import { LessComponent } from './pages/less/less.component';
 import { ReservedComponent } from './pages/reserved/reserved.component';
 import { QualifiedComponent } from './pages/qualified/qualified.component';
 import { NewComponent } from './pages/new/new.component';
+import { Book1Component } from './book1/book1.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, WelcomeComponent, SearchComponent, MostComponent, LessComponent, ReservedComponent, QualifiedComponent, NewComponent],
+  imports: [RouterOutlet, WelcomeComponent, SearchComponent, MostComponent, LessComponent, ReservedComponent, QualifiedComponent, NewComponent, Book1Component],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
