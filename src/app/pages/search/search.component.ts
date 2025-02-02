@@ -12,8 +12,23 @@ export class SearchComponent {
 
   constructor(private router: Router) {}
   
-    square() {
+    square1() {
       this.router.navigate(['/most']);
     }
 
+    square2() {
+      this.router.navigate(['/less']);
+    }
+
+    square3() {
+      this.router.navigate(['/reserved']);
+    }
+
+    square4() {
+      this.router.navigate(['/qualidied']);
+    }
+
+    square5() {
+      this.router.navigate(['/new']);
+    }
 }

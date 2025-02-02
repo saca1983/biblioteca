@@ -2,16 +2,16 @@ import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 
 @Component({
-  selector: 'app-book1',
+  selector: 'app-book2',
   standalone: true,
   imports: [],
-  templateUrl: './book1.component.html',
-  styleUrl: './book1.component.css'
+  templateUrl: './book2.component.html',
+  styleUrl: './book2.component.css'
 })
-export class Book1Component {
+export class Book2Component {
 
   constructor(private router: Router) {}
-      
+        
     search() {
       this.router.navigate(['/search']);
     }
