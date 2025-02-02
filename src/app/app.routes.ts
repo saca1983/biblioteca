@@ -6,7 +6,7 @@ import { LessComponent } from './pages/less/less.component';
 import { ReservedComponent } from './pages/reserved/reserved.component';
 import { QualifiedComponent } from './pages/qualified/qualified.component';
 import { NewComponent } from './pages/new/new.component';
-import { Book1Component } from './book1/book1.component';
+import { Book1Component } from './pages/book1/book1.component';
 
 export const routes: Routes = [
     {path: 'welcome', component: WelcomeComponent},
