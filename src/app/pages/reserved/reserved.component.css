@@ -22,7 +22,7 @@
     left: 20px;
     width: 375px;
     height: 200px; 
-    background-color: #EFF6FF; 
+    background-color: #FFF7ED; 
     box-shadow: 0 4px 8px #00000011;
     border-radius: 15px; 
     padding: 20px; 
@@ -43,19 +43,19 @@
 
 .square1 h1{
     position: absolute;
-    bottom: 120px;
+    bottom: 115px;
     left: 150px;
     color: #000;
-    font-size: 25px;
+    font-size: 19px;
     font-family: 'Montserrat';
     font-style: italic;
 }
 
 .square1 h3{
     position: absolute;
-    bottom: 100px;
+    bottom: 87px;
     left: 160px;
-    color: #000;
+    color: #5e5f61;
     font-size: 17px;
     font-family: 'Montserrat';
     font-style: italic;
@@ -63,7 +63,7 @@
 
 .square1 p{
     position: absolute;
-    top: 80px;
+    top: 90px;
     left: 150px;
     color: #000;
     font-size: 12px;
@@ -75,8 +75,8 @@
     top: 310px;
     left: 20px;
     width: 375px;
-    height: 230px; 
-    background-color: #EFF6FF; 
+    height: 200px; 
+    background-color: #FFF7ED; 
     box-shadow: 0 4px 8px #00000011;
     border-radius: 15px; 
     padding: 20px; 
@@ -90,26 +90,26 @@
     position: absolute;
     width: 26vw;
     height: 17vh;
-    top: 35px;
+    top: 25px;
     left: 25px;
     border-radius: 10px;
 }
 
 .square2 h1{
     position: absolute;
-    bottom: 150px;
+    bottom: 110px;
     left: 150px;
     color: #000;
-    font-size: 19px;
+    font-size: 17px;
     font-family: 'Montserrat';
     font-style: italic;
 }
 
 .square2 h3{
     position: absolute;
-    bottom: 100px;
+    bottom: 80px;
     left: 160px;
-    color: #000;
+    color: #5e5f61;
     font-size: 16px;
     font-family: 'Montserrat';
     font-style: italic;
@@ -117,7 +117,7 @@
 
 .square2 p{
     position: absolute;
-    top: 110px;
+    top: 100px;
     left: 150px;
     color: #000;
     font-size: 12px;
@@ -126,11 +126,11 @@
 
 .square3{
     position: absolute;
-    top: 560px;
+    top: 530px;
     left: 20px;
     width: 375px;
     height: 200px; 
-    background-color: #EFF6FF; 
+    background-color: #FFF7ED; 
     box-shadow: 0 4px 8px #00000011;
     border-radius: 15px; 
     padding: 20px; 
@@ -151,19 +151,19 @@
 
 .square3 h1{
     position: absolute;
-    bottom: 125px;
+    bottom: 110px;
     left: 150px;
     color: #000;
-    font-size: 25px;
+    font-size: 19px;
     font-family: 'Montserrat';
     font-style: italic;
 }
 
 .square3 h3{
     position: absolute;
-    bottom: 100px;
+    bottom: 85px;
     left: 160px;
-    color: #000;
+    color: #5e5f61;
     font-size: 17px;
     font-family: 'Montserrat';
     font-style: italic;
@@ -171,7 +171,7 @@
 
 .square3 p{
     position: absolute;
-    top: 80px;
+    top: 90px;
     left: 150px;
     color: #000;
     font-size: 12px;
@@ -180,11 +180,11 @@
 
 .square4{
     position: absolute;
-    top: 783px;
+    top: 750px;
     left: 20px;
     width: 375px;
     height: 200px; 
-    background-color: #EFF6FF; 
+    background-color: #FFF7ED; 
     box-shadow: 0 4px 8px #00000011;
     border-radius: 15px; 
     padding: 20px; 
@@ -217,7 +217,7 @@
     position: absolute;
     bottom: 95px;
     left: 160px;
-    color: #000;
+    color: #5e5f61;
     font-size: 16px;
     font-family: 'Montserrat';
     font-style: italic;
