@@ -12,7 +12,7 @@
     font-family: 'Montserrat';
     font-style: italic;
     color: #000;
-    top: 630px;
+    top: 615px;
 }
 
 .title p{
@@ -22,7 +22,7 @@
     font-family: 'Montserrat';
     font-style: italic;
     color: #787A7C;
-    top: 667px;
+    top: 660px;
 }
 
 .image1 img{
@@ -30,7 +30,7 @@
     width: 5%;
     height: 7%;
     left: 15px;
-    top: 85px;
+    top: 95px;
 }
 
 .text1 p{
@@ -39,7 +39,7 @@
     font-size: 15px;
     font-family: 'Montserrat';
     color: #000;
-    top: 715px;
+    top: 710px;
     
 }
 
@@ -48,7 +48,7 @@
     width: 5%;
     height: 7%;
     left: 240px;
-    top: 63px;
+    top: 75px;
 }   
 
 .text2 p{
@@ -57,7 +57,7 @@
     font-size: 15px;
     font-family: 'Montserrat';
     color: #000;
-    top: 713px;
+    top: 710px;
 }
 
 .image3 img{
@@ -65,7 +65,7 @@
     width: 5%;
     height: 7%;
     left: 15px;
-    top: 75px;
+    top: 90px;
 }
 
 .text3 p{
@@ -83,7 +83,7 @@
     width: 5%;
     height: 7%;
     left: 240px;
-    top: 49px;
+    top: 65px;
 }   
 
 .text4 p{
@@ -101,7 +101,7 @@
     font-size: 15px;
     font-family: 'Montserrat';
     color: #000;
-    top: 790px;
+    top: 785px;
 }
 
 .click button{

@@ -13,7 +13,7 @@ import { Book4Component } from './pages/book4/book4.component';
 import { Book5Component } from './pages/book5/book5.component';
 
 export const routes: Routes = [
-    {path: 'welcome', component: WelcomeComponent},
+    {path: 'home', component: WelcomeComponent},
     {path: 'search', component: SearchComponent},
     {path: 'most', component: MostComponent},
     {path: 'less', component: LessComponent},
